@@ -180,4 +180,4 @@ For each topic, run the agent and record the evaluation JSON produced by `Evalua
 
 ## License
 
-You can choose a license that fits your needs (e.g., MIT) before making the repository public on GitHub.
+<p><strong>Kuldeep Kumar • 2024 • MIT Licensed</strong></p>
